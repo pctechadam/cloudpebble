@@ -4,3 +4,6 @@
 [submodule "ext/pebblejs"]
 	path = ext/pebblejs
 	url = git://github.com/pebble/pebblejs.git
+[submodule "cloudpebble"]
+	path = cloudpebble
+	url = https://github.com/pctechadam/cloudpebble
